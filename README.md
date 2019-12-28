@@ -6,3 +6,4 @@
 - [Yellow Brick for Visualization and correlation evaluation](https://pypi.org/project/yellowbrick/)
 - [CatBoost is a Boosting Machine Out of the Box](https://catboost.ai/)
   [mlxtend is out of the box data science tools](http://rasbt.github.io/mlxtend/)
+- [Deep Neural Net for Speech](https://kaldi-asr.org/doc/dnn.html)
